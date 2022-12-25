@@ -1,0 +1,36 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-color: rgba(0, 32, 244, 1);
+	height: 387.56px;
+}
+.logo{
+	width: 115px;
+	height: 65px;
+	margin-top: 40px;
+	margin-left: 240px;
+}
+a{
+	color: white;
+	font-size: 16px;
+	text-decoration: none;
+
+}
+.contact{
+	color: black;
+	background-color: white;
+	border-radius: 28px;
+}
+.items{
+	margin-top: -250px;
+	margin-left: 240px;  
+}
+ul{
+	list-style: none;
+}
+li{
+	margin: 18px
+}
