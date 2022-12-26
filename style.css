@@ -14,13 +14,13 @@ header{
 	margin-left: 240px;
 }
 a{
-	color: white;
+	color: rgba(255, 255, 255, 1);
 	font-size: 16px;
 	text-decoration: none;
 
 }
 .contact{
-	color: black;
+	color: rgba(23, 23, 23, 1);
 	background-color: white;
 	border-radius: 28px;
 }
@@ -40,19 +40,19 @@ li{
 	border-radius: 15px;
 	margin-left: 362px;
 	position: relative;
-	bottom: 140px;
+	bottom: 172px;
 }
 .paragraph{
 	text-align: left;
 	font-size: 28px;
 	color: rgba(23, 23, 23, 1);
-    margin-top: -125px;
+    margin-top: -155px;
     margin-left: 362px;
 }
 .pictures{
-	border-radius: 15px;
-	position: relative;
-	top: 60px;
+	letter-spacing: 25px;
+    border-radius: 15px;
+    margin-top: 60px;	
 }
 section p{
 	text-align: center;
@@ -60,5 +60,13 @@ section p{
 	font-size: 16px;
 	margin-top: 60px;
 	margin-bottom: 18px;
+}
 
+.last{
+	color: #FFFFFF;
+	background-color: #0A22F4;
+	border-radius: 28px;
+	font-size: 16px;
+	text-transform: uppercase;
+	margin-top: 58px;
 }
